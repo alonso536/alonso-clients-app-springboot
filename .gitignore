@@ -41,3 +41,6 @@ uploads/products/**.jpeg
 uploads/products/**.png
 
 src/main/resources/application.properties
+
+!uploads/products/**image.png
+!uploads/clients/**image.png
